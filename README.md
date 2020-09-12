@@ -4,5 +4,5 @@ Escolha dois dispositivos do arquivo lista-dispositivo.txt
 
 Então execute o comando, levando em conta os objetivos escolhidos:
 ```console
-node Temperatura_1 CONECTAR d2 Temperatura_2
+node client.js Temperatura_1 CONECTAR Temperatura_2
 ```
